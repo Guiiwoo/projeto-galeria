@@ -85,7 +85,7 @@ main > section{
     content: "";
     display: inline-block;
     position: absolute;
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.375) inset;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.185) inset;
     z-index: 1;
     height: 100%;
     width: 100%;
